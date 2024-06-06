@@ -33,14 +33,5 @@
     "@babel/core": "^7.20.0"
   },
   "private": true,
-  "expo": {
-    "plugins": [
-      [
-        "expo-font",
-        {
-          "fonts": ["./src/theme/index.js"]
-        }
-      ]
-    ]
-  }
+  "expo": {}
 }
